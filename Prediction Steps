@@ -1,0 +1,7 @@
+1. Create a Reciever Operating Characteristics (ROC) curve function as a R file (ROC_FUNCTION.R) for deciding the threshold value for model building process.
+
+2. Create a R file with all the model building process with different trials of models by comparing them on the ROC curve using the earlier created ROC function.(MODEL_TRAINING.R)
+
+3. Create a random un-trained dataframe in R to be called after a trained model is created.(new_input_sample.R)
+
+4. Create a winning model final R file to be sourced by the software team that can be used in production.(TRAINED_MODEL)
